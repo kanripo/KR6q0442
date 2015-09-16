@@ -1,10 +1,3 @@
-#+TITLE: 明覺聰禪師語錄 / CBETA
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-30 21:52:10.877951
-* 版本
- |     CBETA|【電子佛典集成】|
- |         J|【嘉興】    |
-目次
- - [[file:KR6q0442_001.txt][明覺聰禪師語錄 1]]
- - [[file:KR6q0442_002.txt][明覺聰禪師語錄 2]]
- - [[file:KR6q0442_003.txt][明覺聰禪師語錄 3]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
